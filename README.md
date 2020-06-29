@@ -1,2 +1,2 @@
 # Shell
-Implementation of a basic unix shell in C
+Implementation of a basic Unix shell in C
