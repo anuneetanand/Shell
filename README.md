@@ -8,3 +8,7 @@ $ cd Shell
 $ gcc shell.c -o shell
 $ ./shell
 ```
+
+## Preview
+![enter image description here](https://raw.githubusercontent.com/anuneetanand/Images/master/shell.png)
+
